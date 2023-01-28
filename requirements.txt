@@ -39,7 +39,7 @@ meshplex==0.18.6
 #mkl-service==2.4.0
 more-itertools==8.14.0
 mpmath==1.2.1
-mthree==1.0.0
+mthree
 multitasking==0.0.11
 #munkres==1.1.4
 mypy-extensions==0.4.3
@@ -76,7 +76,7 @@ qiskit-ibm-runtime==0.6.2
 qiskit-ibmq-provider==0.19.2
 qiskit-ignis==0.7.1
 qiskit-nature==0.4.5
-qiskit-terra==0.21.2
+qiskit-terra
 #Quandl==3.7.0
 queuelib==1.5.0
 requests
