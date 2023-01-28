@@ -17,7 +17,7 @@ brotlipy==0.7.0
 #constantly==15.1.0
 #cssselect==1.1.0
 #cytoolz==0.11.0
-daal4py==2021.5.0
+#daal4py==2021.5.0
 datashape==0.5.4
 dill==0.3.5.1
 dlx==1.0.4
