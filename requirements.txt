@@ -83,11 +83,11 @@ requests==2.28.1
 requests-ntlm==1.1.0
 retworkx==0.11.0
 rich==13.0.1
-sip==4.19.13
-statsmodels==0.13.2
-stevedore==4.0.0
-tables==3.6.1
-tabulate==0.8.9
+#sip==4.19.13
+#statsmodels==0.13.2
+#stevedore==4.0.0
+#tables==3.6.1
+#tabulate==0.8.9
 #TBB==0.2
 #tomli_w==1.0.0
 #tweedledum==1.1.1
