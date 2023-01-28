@@ -1,6 +1,6 @@
 #anaconda-navigator==2.1.4
 #appdirs==1.4.4
-aqua==0.1.27
+aqua
 #atomicwrites==1.4.0
 #backports.weakref==1.0.post1
 #bkcharts==0.2
@@ -26,8 +26,8 @@ docplex==2.23.222
 #fastdtw==0.3.4
 #fonttools==4.25.0
 #h5py==3.2.1
-ibm-cloud-sdk-core==3.16.0
-ibm-platform-services==0.27.0
+ibm-cloud-sdk-core
+ibm-platform-services
 #idna==2.8
 #inflection==0.5.1
 #kgt==0.4.7
