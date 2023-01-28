@@ -34,6 +34,7 @@ docplex==2.23.222
 #llvmlite==0.38.0
 #mccabe==0.6.1
 #meshio==5.3.4
+matplotlib
 meshplex==0.18.6
 #mkl-fft==1.3.1
 #mkl-service==2.4.0
